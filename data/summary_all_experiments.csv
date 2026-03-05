@@ -1,0 +1,21 @@
+experiment,condition,final_coop_rate,peak_coop_rate,avg_coop_rate,avg_persuasion_rate,final_strategy_mean
+Exp1_CompilationValidation,Compiled (grounded),0.3333,0.5333,0.3053,0.4967,0.2852
+Exp1_CompilationValidation,Unstructured (grounded),0.27,0.4333,0.2747,0.4767,0.2675
+Exp1_CompilationValidation,No influence (baseline),0.28,0.5,0.282,0.0,0.2861
+Exp2_CompilationGap,Compiled (grounded),0.3333,0.5333,0.3053,0.4967,0.2852
+Exp2_CompilationGap,Unstructured (grounded),0.27,0.4333,0.2747,0.4767,0.2675
+Exp2_CompilationGap,Compiled (idealized),0.85,0.9667,0.7647,,
+Exp2_CompilationGap,Unstructured (idealized),0.7667,0.9,0.7093,,
+Exp2_CompilationGap,No influence (idealized),0.7233,0.8667,0.686,,
+Exp3_TargetingRobustness,Target_HUBS,0.3333,0.5333,0.3053,0.4967,0.2852
+Exp3_TargetingRobustness,Target_BRIDGES,0.3333,0.5333,0.3053,0.4967,0.2852
+Exp3_TargetingRobustness,Target_RANDOM,0.27,0.4333,0.2747,0.4767,0.2675
+Exp3_TargetingRobustness,Target_PERIPHERY,0.3067,0.5667,0.3133,0.6933,0.2946
+Exp4_ResistanceSweep,Compiled R=0.1,0.33,0.5333,0.3087,0.4933,0.2861
+Exp4_ResistanceSweep,Unstructured R=0.1,0.2633,0.4333,0.276,0.4767,0.2665
+Exp4_ResistanceSweep,Compiled R=0.3,0.3333,0.5333,0.3053,0.4967,0.2852
+Exp4_ResistanceSweep,Unstructured R=0.3,0.27,0.4333,0.2747,0.4767,0.2675
+Exp4_ResistanceSweep,Compiled R=0.5,0.3333,0.5333,0.306,0.4867,0.2868
+Exp4_ResistanceSweep,Unstructured R=0.5,0.2633,0.4667,0.2707,0.45,0.2604
+Exp4_ResistanceSweep,Compiled R=0.7,0.3267,0.5333,0.3033,0.49,0.2817
+Exp4_ResistanceSweep,Unstructured R=0.7,0.27,0.4667,0.27,0.4233,0.2595
